@@ -1,4 +1,4 @@
-# Projet
+# Projet_CY_Meteo
 
 Une fois le fichier téléchargé, accédez à l'emplacement où vous avez installé ce dépôt en utilisant votre terminal avec la commande "cd".
 Si vous rencontrez un problème de permission non accordée, veuillez entrer cette commande :
